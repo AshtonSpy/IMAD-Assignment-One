@@ -4,3 +4,4 @@ When the user taps the button, the app checks their input against a list of pred
 
 The code works, but it could be improved. Instead of multiple if-else statements, a when statement would be cleaner. Also, instead of just saying "Spelling error!", the app could suggest valid options. Finally, adding functionality to the reset button would make it more useful.
 ![St10486273 Screenshot of FoodApp](https://github.com/user-attachments/assets/8fa4d972-c402-4d5d-9164-bb78dc136a05)
+https://github.com/AshtonSpy/IMAD-Assignment-One.git
